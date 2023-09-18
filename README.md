@@ -1,2 +1,2 @@
-# Plantilla-Proy-C157
-MUNDO DE HISTORIETAS. ETAPA 1
+# PRO_C157_SP_V2
+Proyecto posterior a la clase 157.
